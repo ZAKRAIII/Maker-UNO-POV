@@ -12,7 +12,7 @@ Adapted by SC Lim (Cytron Technologies) for <a href="https://makeruno.com.my/">M
   <li>Select MsTimer2 by Javier Valencia and click Install.</li>
 </ol>
 If by any chance these steps don't work for you, you can also download <a href="http://playground.arduino.cc/uploads/Main/MsTimer2.zip">MsTimer2 library</a> from Arduino website and perform manual installation using the ZIP file.<br>
-Once installed, you are good to go. Try compile the code and upload to Maker UNO.<br>
+✔Once installed, you are good to go. Try compile the code and upload to Maker UNO.<br>
 <br>
 <img src="https://ksr-ugc.imgix.net/assets/020/696/099/ea095015638ff1e07f8b58f68aafac41_original.gif?w=639&fit=max&v=1522215857&auto=format&gif-q=50&q=92&s=54c252c6a5c693b93074c9550dbaa286"/>
 
