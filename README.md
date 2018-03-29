@@ -1,7 +1,7 @@
 # Maker-UNO-POV
 Persistence of Vision (POV)
 
-The original sketch is written by <a href="https://blog.blinkenlight.net/experiments/basic-effects/pov-reloaded/">Udo Klein (Blinkenlight)</a> for Blinkenlight Shield.
+The original sketch is written by <a href="https://blog.blinkenlight.net/experiments/basic-effects/pov-reloaded/">Udo Klein (Blinkenlight)</a> for Blinkenlight Shield.<br>
 Adapted by SC Lim (Cytron Technologies) for <a href="https://makeruno.com.my/">Maker UNO</a>.
 
 
